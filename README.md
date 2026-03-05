@@ -50,8 +50,6 @@ Desarrollo de un sistema integral para la gestión y control de procesos en la i
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndndndndndndndndndndndndndndndndndndndndndndndnd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150">
 </p>
 
-✨ *"La tecnología es la herramienta, la pasión es el motor."*
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -62,11 +60,9 @@ Desarrollo de un sistema integral para la gestión y control de procesos en la i
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+✨ *"La tecnología es la herramienta, la pasión es el motor."*
 
-###
+
+
+
 
