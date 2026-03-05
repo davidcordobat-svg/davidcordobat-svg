@@ -33,13 +33,6 @@ Desarrollo de un sistema integral para la gestión y control de procesos en la i
 
 ---
 
-## 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidcordobat-svg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de David" />
-</p>
-
----
-
 
 ## 📬 Hablemos
 <p align="left">
