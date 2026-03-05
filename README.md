@@ -58,8 +58,7 @@ Desarrollo de un sistema integral para la gestión y control de procesos en la i
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndndndndndndndndndndndndndndndndndndndndndndndnd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150">
-</p>
+
 
 
 
